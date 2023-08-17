@@ -11,7 +11,7 @@ I'm interested with science :electron: and programming 💻
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,react,python)](https://skillicons.dev)
 
 ### ​​Tools I use 🔨:
-[![My Skills](https://skillicons.dev/icons?i=vscode,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,linux)](https://skillicons.dev)
 
 ---
 
